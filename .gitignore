@@ -1,0 +1,10 @@
+# Visual Studio and Visual Studio Code excludes
+.vs/
+.vscode/
+
+# Common IntelliJ IDE's excludes
+.idea/
+
+node_modules/
+dist/
+.cache/
